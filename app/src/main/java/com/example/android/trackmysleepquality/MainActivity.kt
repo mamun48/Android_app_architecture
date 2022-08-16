@@ -25,10 +25,8 @@ import androidx.appcompat.app.AppCompatActivity
  *
  * The SleepQualityTracker app is a demo app that helps you collect information about your sleep.
  * - Start time, end time, quality, and time slept
- *
  * This app demonstrates the following views and techniques:
  * - Room database, DAO, and Coroutines
- *
  * - Transformation map
  * - Data Binding in XML file
  * - ViewModel Factory
