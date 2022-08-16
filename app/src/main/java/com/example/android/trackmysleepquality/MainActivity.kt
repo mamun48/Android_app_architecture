@@ -33,7 +33,6 @@ import androidx.appcompat.app.AppCompatActivity
  * - Transformation map
  * - Data Binding in XML file
  * - ViewModel Factory
- * - Using Backing Properties to protect MutableLiveData
  * - Observable state LiveData variables to trigger navigation
  */
 
